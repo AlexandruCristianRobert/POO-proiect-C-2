@@ -1,0 +1,4 @@
+﻿  proiect madalin.cpp
+D:\poo\proiect madalin\proiect madalin\proiect madalin.cpp(96,10): warning C4018: '<': signed/unsigned mismatch
+D:\poo\proiect madalin\proiect madalin\proiect madalin.cpp(334,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  proiect madalin.vcxproj -> D:\poo\proiect madalin\Debug\proiect madalin.exe
